@@ -11,6 +11,10 @@ $serif              : "PT Serif", Georgia, Times, serif;
 $global-font-family : $serif;
 // $header-font-family : $sans-serif-narrow;
 
+.header-link {
+    display: none;
+  }
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
