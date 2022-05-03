@@ -19,8 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal site for Jacob Cohen.
 twitter_username: cohen_jt
 github_username: cohenjt
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
+locale: "en-US"
+url: "https://cohenjt.github.io"
+
+atom_feed:
+  hide: true
+
 
 # Build settings
 markdown: kramdown
@@ -59,9 +65,8 @@ author:
   name   : "Jacob T. Cohen"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. student, University of Washington, School of Oceanography"
+  location: "Seattle, WA"
   links:
-    - label: "Seattle, WA"
-      icon: "fas fa-fw fa-location-dot"
     - label: "UW SoO"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.ocean.washington.edu/home/Jacob_Cohen"
@@ -75,7 +80,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cohenjt"
     - label: "CV"
-      icon: "fab fa-fw fa-file"
+      icon: "fas fa-fw fa-file-pdf"
       url: "/files/cv_cohen.pdf"
 
 footer:
