@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+  - title: "Research"
+    url: /research/
+  - title: "Service, Outreach, and Engagement"
+    url: /outreach/
+  - title: "About me"
     url: /about/
+  - title: "CV"
+    url: /assets/files/cv_cohen.pdf
