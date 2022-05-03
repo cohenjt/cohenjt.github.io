@@ -58,9 +58,9 @@ plugins:
 author:
   name   : "Jacob T. Cohen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. student"
+  bio    : "Ph.D. student, University of Washington, School of Oceanography"
   links:
-    - label: "University of Washington, School of Oceanography"
+    - label: "UW SoO"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.ocean.washington.edu/home/Jacob_Cohen"
     - label: "jtcohen@uw.edu"
@@ -72,6 +72,9 @@ author:
     - label: "cohenjt"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cohenjt"
+    - label: "CV"
+      icon: "fab fa-fw fa-file"
+      url: "/assets/files/cv_cohen.pdf"
 
 footer:
   links:
