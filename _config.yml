@@ -60,6 +60,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. student, University of Washington, School of Oceanography"
   links:
+    - label: "Seattle, WA"
+      icon: "fas fa-fw fa-location-dot"
     - label: "UW SoO"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.ocean.washington.edu/home/Jacob_Cohen"
@@ -73,8 +75,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cohenjt"
     - label: "CV"
-      icon: "fab fa-fw fa-folder-open"
-      url: "/assets/files/cv_cohen.pdf"
+      icon: "fab fa-fw fa-file"
+      url: "/files/cv_cohen.pdf"
 
 footer:
   links:
