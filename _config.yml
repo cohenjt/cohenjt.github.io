@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cohenjt"
     - label: "CV"
-      icon: "fab fa-fw fa-file"
+      icon: "fab fa-solid fa-file"
       url: "/assets/files/cv_cohen.pdf"
 
 footer:
