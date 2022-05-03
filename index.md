@@ -1,6 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+author_profile: true
+classes: wide
 ---
 
 I am a Ph.D. student studying physical oceanography with Dr. LuAnne Thompson. My research focuses on air-sea interaction and climate variability, primarily in the Southern Ocean. I use satellite observations to study air-sea heat exchange on monthly, seasonal, and interannual timescales in order to understand the relative roles of oceanic and atmospheric processes in renewing upper ocean heat content. I presented the preliminary findings of this research at the 2020 Graduate Climate Conference and the 2020 AGU Fall Meeting, and plan to submit a manuscript with more findings soon.

@@ -16,13 +16,11 @@
 title: Jacob T. Cohen
 email: jtcohen@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Personal site for Jacob Cohen.
+twitter_username: cohen_jt
+github_username: cohenjt
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -60,26 +58,29 @@ plugins:
 author:
   name   : "Jacob T. Cohen"
   avatar : "/assets/images/bio-photo.jpg"
-  # bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "University of Washington, School of Oceanography"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.ocean.washington.edu/home/Jacob_Cohen"
+    - label: "jtcohen@uw.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jtcohen@uw.edu"
     - label: "@cohen_jt"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/cohen_jt"
     - label: "cohenjt"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cohenjt"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/cohen_jt"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cohenjt"
 
 defaults:
   # _posts
@@ -100,6 +101,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 category_archive:
   type: liquid
