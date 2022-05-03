@@ -1,8 +1,9 @@
 ---
 permalink: /engagement/
 title: "Service, Outreach, and Engagement"
+header:
+    overlay_image: "/assets/images/seaheader.jpeg"
 ---
-
 # Program on Climate Change
 
 I have served on the [Program on Climate Change](https://pcc.uw.edu){:target="_blank"} Graduate Steering Committee ([P-GraSC](https://pcc.uw.edu/people/graduate-student-steering-committee/){:target="blank"}) for two years, during which I have worked to engage undergraduate students and local communities on topics related to climate science. With the P-GraSC undergraduate research subcommittee, I create resources for students interested in climate change research and help provide a space for them to connect and learn from each other. We successfully started the first [Undergraduate Climate Cohort](https://pcc.uw.edu/research/undergraduate-climate-cohort/){:target="_blank"} this year and host quarterly events to bring undergraduates together to learn about climate science. 
@@ -17,7 +18,7 @@ For the past three years, I have served on the organizing committee for the [Gra
 
 # Other
 
-- Summer Committee for Social and Environmental Justice
-    - I served on the committee led by the UW Campus Sustainability Fund and the UW Resilience Lab to fund racial and environmental justice projects within our community. We provided nearly $20,000 in funding for 8 projects, including a project to understand the climate resilience strategies of frontline communities in the Puget Sound region and three seminar series on environmental and racial inequities on topics pertaining to the Nutritional Sciences Program, the School of Art, Division of Art History, and the Department of Atmospheric Sciences.
-- Climate Change // Curiosity Expo
+- __Summer Committee for Social and Environmental Justice__
+    - I served on a committee led by the UW Campus Sustainability Fund and the UW Resilience Lab to fund racial and environmental justice projects within our community. We provided nearly $20,000 in funding for 8 projects, including a project to understand the climate resilience strategies of frontline communities in the Puget Sound region and three seminar series on environmental and racial inequities on topics pertaining to the Nutritional Sciences Program, the School of Art, Division of Art History, and the Department of Atmospheric Sciences.
+- __Climate Change // Curiosity Expo__
     - I led an exhibit at the Pacific Science Center to engage with community members and teach about the sources of Arctic Ocean water.
