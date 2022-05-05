@@ -17,7 +17,7 @@ Dr. Thompson and I have two papers in progress, one focusing on the effective de
 
 # Future work
 
-My upcoming work will focus on studying upper ocean heat content variability by examining surface variables and heat budgets in various models. One approach of my research will focus on defining clusters of air-sea interaction from lagged correlations between SST and Q and between SLA and Q. I will then evaluate model-derived heat budgets within each cluster to study the ocean heat transport processes that dominate air-sea interaction. For these studies, I will use three models: the Estimating the Circulation and Climate of the Ocean (ECCO) state estimate, the Parallel Ocean Program (POP) model, and the Community Earth Systems Model (CESM). This research will improve the ability to predict climate changes by better understanding the roles and interactions of the ocean and the atmosphere.
+My upcoming work will focus on studying upper ocean heat content variability by examining surface variables and heat budgets in various models. One approach of my research will focus on defining clusters of air-sea interaction from lagged correlations between SST and Q and between SLA and Q. I will then evaluate model-derived heat budgets within each cluster to study the ocean heat transport processes that dominate air-sea interaction. This research will improve the ability to predict climate changes by better understanding the roles and interactions of the ocean and the atmosphere.
 
 ## Presentations
 
