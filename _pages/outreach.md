@@ -9,19 +9,26 @@ header:
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
+  background-color: site.page-col;
+  border: 5px black;
+  margin-right: auto;
+  margin-left: auto;
+  justify-items: center;
+  align-items: center;
+  /* text-align: center; */
+  align-self: center;
 }
 
 .column img {
   border: 2px solid black;
   display: block;
-  margin-left: auto;
+  /* margin-left: auto;
   margin-right: auto;
   margin-top: auto;
-  vertical-align: middle;
+  vertical-align: middle; */
 }
 
 /* Clear floats after the columns */
@@ -32,15 +39,9 @@ header:
 }
 
 .top-buffer { margin-top: 2em; }
-
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-}
 </style>
-<body>
-<div class="container">
+<!-- <body> -->
+<!-- <div class="container"> -->
 <div class="row">
   <div class="column" style="background-color: site.page-col; width: 30%">
     <img src="/assets/images/pcc_logo.png" alt="Program on Climate Change">
@@ -55,21 +56,26 @@ header:
     <h1>ACORN</h1>
     <p>The <a href="https://pcc.uw.edu/research/acorn-program/" target="_blank">Actionable Community-Oriented Research eNgagement</a> (ACORN) program at the University of Washington serves to connect graduate students and community organizations to address community-driven climate and energy priorities. As a member of the ACORN leadership board, I reach out to community organizations and provide resources to ACORN volunteers and project liasons. I currently oversee a project with the <a href="https://www.cleanenergytransition.org" target="_blank">Clean Energy Transition Institute</a>, where three graduate students are working on the <a href="https://www.nwceatlas.org" target="_blank">Northwest Clean Energy Atlas</a>.</p>
   </div>
-  <div class="column" style="background-color: site.page-col; width: 40%;">
-    <span class="helper"></span><img src="/assets/images/acorn.gif" alt="ACORN">
+  <div class="column top-buffer" style="background-color: site.page-col; width: 40%;">
+    <img src="/assets/images/acorn.gif" alt="ACORN">
   </div>
 </div>
+<div class="row" style="text-indent: -36px; padding-left: 36px; width: 90%; margin-left: auto; margin-right: auto;">
+    <h3>Presentations and Conference Sessions</h3>
+    <p>Innovative Initiatives in Conducting Community-Based Science and Training the Next Generation of Practitioners, Session U22B, AGU Fall Meeting 2021, December 2021 (remote)</p>
+    <p><b>Cohen, J. T.</b>, et al., Actionable Community-Oriented Research eNgagement (ACORN) with the UW Program on Climate Change, Northwest Climate Conference, 6-8 Apr. 2021, lightning talk (remote)</p>
+</div>
 <div class="row top-buffer">
-  <div class="column" style="background-color: site.page-col; width: 40%;">
-    <span class="helper"></span><img src="/assets/images/gcc_logo.png" alt="Graduate Climate Conference">
+  <div class="column top-buffer" style="background-color: site.page-col; width: 40%;">
+    <img src="/assets/images/gcc_logo.png" alt="Graduate Climate Conference">
   </div>
   <div class="column" style="background-color: site.page-col; width: 60%">
     <h1>Graduate Climate Conference</h1>
     <p>For the past three years, I have served on the organizing committee for the <a href="https://graduateclimateconference.github.io" target="_blank">Graduate Climate Conference</a> (GCC), which brings together graduate students from around the world to share their climate research and to connect graduate students studying climate science. In 2020, I led the Recording & Evaluation committee for the <a href="https://pcc.uw.edu/blog/2020/11/06/gcc-2020/" target="_blank">first virtual GCC</a>. In 2021, I served as a conference co-chair and led the Abstracts committee. This year, I created the conference website linked above and will lead the Abstracts committee again.</p>
   </div>
 </div>
-</div>
-</body>
+<!-- </div> -->
+<!-- </body> -->
 
 # Other
 

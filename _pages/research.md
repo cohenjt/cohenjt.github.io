@@ -26,7 +26,6 @@ My upcoming work will focus on studying upper ocean heat content variability by 
 <p><b>Cohen, J. T.</b>, Thompson, L., Seasonal Variation in the Effective Depth of Air-Sea Interaction, Ocean Sciences Meeting, 4 Mar. 2022, oral (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., The Effective Depth of Air-Sea Interaction, Oceanography Graduate Student Symposium, 5 Nov. 2021, oral</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., The Effective Depth of Air-Sea Interaction on Monthly and Seasonal Timescales, Graduate Climate Conference, 29–31 Oct. 2021, poster (remote)</p>
-<p><b>Cohen, J. T.</b>, et al., Actionable Community-Oriented Research eNgagement (ACORN) with the UW Program on Climate Change, Northwest Climate Conference, 6-8 Apr. 2021, lightning talk (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Drushka, K., Timescales of Atmosphere-Ocean Interaction in the Southern Ocean, Abstract A055-05, AGU Fall Meeting, 8 Dec. 2020, oral (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Drushka, K., Timescales of Atmosphere-Ocean Interaction in the Southern Ocean, presented at 2020 Graduate Climate Conference, 30 Oct. - 1 Nov. 2020, poster (remote)</p>
 <p><b>Cohen, J. T.</b>, Lee, S., Li, Q., Najjar, R. G., Is Jet-Scale Overturning Circulation Present in the North Atlantic Ocean?, Abstract OS43C-2090, AGU Fall Meeting, 10-14 Dec. 2018, poster</p>
