@@ -22,7 +22,7 @@ My upcoming work will focus on studying upper ocean heat content variability by 
 ## Presentations
 
 <div style="text-indent: -36px; padding-left: 36px;">
-<p><b>Cohen, J. T.</b>, Thompson, L., Quantifying the relative roles of atmospheric and oceanic processes in driving air-sea interaction in the Gulf Stream Region, 2022 US CLIVAR Whither the Gulf Stream Workshop, 15-17 June 2022, poster (remote) (upcoming)</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Quantifying the relative roles of atmospheric and oceanic processes in driving air-sea interaction in the Gulf Stream Region, 2022 US CLIVAR Whither the Gulf Stream Workshop, 15-17 June 2022, poster/lightning talk</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Seasonal Variation in the Effective Depth of Air-Sea Interaction, Ocean Sciences Meeting, 4 Mar. 2022, oral (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., The Effective Depth of Air-Sea Interaction, Oceanography Graduate Student Symposium, 5 Nov. 2021, oral</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., The Effective Depth of Air-Sea Interaction on Monthly and Seasonal Timescales, Graduate Climate Conference, 29–31 Oct. 2021, poster (remote)</p>
