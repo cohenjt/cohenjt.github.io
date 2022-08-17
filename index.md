@@ -16,6 +16,10 @@ Before coming to the University of Washington in September 2019, I earned a B.A.
 
 ## News and Updates
 
+__August 2022:__ Attended the NASA Summer School on Satellite Observations and Climate Models at Caltech.
+
+__June 2022:__ Attended the US CLIVAR Whither the Gulf Stream workshop in Woods Hole, MA. My poster is available [here](https://usclivar.org/sites/default/files/2022/posters/Cohen-Jacob-Poster.pdf){:target="_blank"}.
+
 __March 2022:__ Presented an oral presentation at the 2022 Ocean Sciences Meeting titled _Seasonal Variation in the Effective Depth of Air-Sea Interaction_.
 
 __December 2021:__ In collaboration with ACORN leadership and students at Columbia University, I convened a session at the AGU Fall Meeting titled _Innovative Initiatives in Conducting Community-Based Science and Training the Next Generation of Practitioners_.
