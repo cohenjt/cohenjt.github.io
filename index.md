@@ -24,7 +24,7 @@ __November 2022:__ I received the Graubard Fellowship in the Program on Climate 
 
 <!-- __November 2022:__ Attended the Grid SST Hackathon at the University of Washington. -->
 
-__October 2022:__ After organizing and co-chairing two virtual Graduate Climate Conferences, I helped host, and presented at, the 16th annual Graduate Climate Conference at Pack Forest in Eatonville, WA.
+__October 2022:__ After organizing and co-chairing two virtual Graduate Climate Conferences, I helped host (and presented at) the 16th annual Graduate Climate Conference, which took place in-person at Pack Forest in Eatonville, WA.
 
 <!-- __August 2022:__ Attended the NASA Summer School on Satellite Observations and Climate Models at Caltech. -->
 
