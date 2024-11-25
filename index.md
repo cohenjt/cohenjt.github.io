@@ -24,7 +24,9 @@ __November 2024:__ My work on evaluating marine heatwave predictions was highlig
 
 __October 2024:__ I attended the Physical Oceanography Dissertation Symposium ([PODS XIII](http://www.pods-symposium.org/PODS_symposium/index.htm)) in Lihue, HI.
 
-__July 2024:__ I received the CICOES Graduate Student Fellowship to fund my research on Arctic sea ice predictions.
+__Summer 2024:__ I attended the Liège Colloquium on Ocean Dynamics and NOAA’s Subseasonal and Seasonal Applications Workshop (remotely). I also received the CICOES Graduate Student Fellowship to fund my research on Arctic sea ice predictions in Spring 2025.
+
+__Summer 2023:__ I attended the ICTP-CLIVAR Summer School on Marine Heatwaves in Trieste, Italy.
 
 <!-- __January 2023:__ I successfully presented my Master's defense on January 19th! -->
 
