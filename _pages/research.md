@@ -26,15 +26,15 @@ I am contributing to a publication on the surface and subsurface impacts of the 
 ### Presentations
 
 <div style="text-indent: -36px; padding-left: 36px;">
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Object-Based Evaluation of Marine Heatwave Predictions, AGU Fall Meeting, 9-13 Dec. 2024, poster, upcoming<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E. Object-Based Evaluation of Marine Heatwave Forecasts, NOAA’s Subseasonal and Seasonal Applications Workshop, 5 Sept. 2024, oral (remote)<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions, Liège Colloquium on Ocean Dynamics, 30 May 2024, oral<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions, Earth System Predictability Across Timescales Workshop, 10-12 Apr. 2024, poster<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions in SMYLE, CESM Earth System Prediction Working Group Meeting, 5 Mar. 2024, oral (remote)<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Predicting the Spatiotemporal Evolution of Marine Heatwaves, Ocean Sciences Meeting 2024, 22 Feb. 2024, oral<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Predicting the Spatiotemporal Evolution of Marine Heatwaves, Graduate Climate Conference, 2-4 Nov. 2023, oral<p>
-<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Predicting the Spatiotemporal Evolution of Marine Heatwaves, ICTP-CLIVAR Summer School on Marine Heatwaves, 24-29 Jul. 2023, poster<p>
-<p><b>Cohen, J. T.</b>, Cai, C., Staneva, V., Thompson, L., Characterizing the spatio-temporal evolution of marine heatwaves, UW Data Science Seminar, 12 Apr. 2023, oral<p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Object-Based Evaluation of Marine Heatwave Predictions, AGU Fall Meeting, 9-13 Dec. 2024, poster, upcoming</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E. Object-Based Evaluation of Marine Heatwave Forecasts, NOAA’s Subseasonal and Seasonal Applications Workshop, 5 Sept. 2024, oral (remote)</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions, Liège Colloquium on Ocean Dynamics, 30 May 2024, oral</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions, Earth System Predictability Across Timescales Workshop, 10-12 Apr. 2024, poster</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Object-Based Evaluation of Marine Heatwave Predictions in SMYLE, CESM Earth System Prediction Working Group Meeting, 5 Mar. 2024, oral (remote)</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Predicting the Spatiotemporal Evolution of Marine Heatwaves, Ocean Sciences Meeting 2024, 22 Feb. 2024, oral</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Predicting the Spatiotemporal Evolution of Marine Heatwaves, Graduate Climate Conference, 2-4 Nov. 2023, oral</p>
+<p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Predicting the Spatiotemporal Evolution of Marine Heatwaves, ICTP-CLIVAR Summer School on Marine Heatwaves, 24-29 Jul. 2023, poster</p>
+<p><b>Cohen, J. T.</b>, Cai, C., Staneva, V., Thompson, L., Characterizing the spatio-temporal evolution of marine heatwaves, UW Data Science Seminar, 12 Apr. 2023, oral</p>
 </div>
 
 
