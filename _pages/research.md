@@ -21,6 +21,7 @@ I am contributing to a publication on the surface and subsurface impacts of the 
 <p><b>Cohen, J. T.</b>, Thompson, L., Deppenmeier, A., Maroon, E., Cai, C., Object-based evaluation of marine heatwave predictions, <i>GRL</i>, in prep</p>
 <p>Kohlman, K., Mogen, S., <b>Cohen, J. T.</b>, Araujo, J., Bonino, G., Beaudin, E., Lovenduski, N. S., Surface and subsurface biogeochemical impacts of the 2019 northeast Pacific marine heatwave, <i>GRL</i>, in prep</p>
 <p>Cai, C., Thompson, L., Deppenmeier A.-L., <b>Cohen, J. T.</b>, Maroon, E., Staneva, V., Whitt, D., Atmospheric drivers of marine heatwaves in the North Pacific Ocean, in prep</p>
+</div>
 
 ### Presentations
 
@@ -34,6 +35,7 @@ I am contributing to a publication on the surface and subsurface impacts of the 
 <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Meeker, E., Predicting the Spatiotemporal Evolution of Marine Heatwaves, Graduate Climate Conference, 2-4 Nov. 2023, oral<p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Predicting the Spatiotemporal Evolution of Marine Heatwaves, ICTP-CLIVAR Summer School on Marine Heatwaves, 24-29 Jul. 2023, poster<p>
 <p><b>Cohen, J. T.</b>, Cai, C., Staneva, V., Thompson, L., Characterizing the spatio-temporal evolution of marine heatwaves, UW Data Science Seminar, 12 Apr. 2023, oral<p>
+</div>
 
 
 # Sea Ice Prediction
@@ -42,8 +44,9 @@ I am contributing to a publication on the surface and subsurface impacts of the 
 I am evaluating predictions of September Arctic sea ice extent, volume, and concentration in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE). 
 
 ### Presentations
+<div style="text-indent: -36px; padding-left: 36px;">
 <p><b>Cohen, J. T.</b>, Yeager, S., Thompson, L., Cheng, W., Sources of Predictability in Skillful Arctic Sea Ice Forecasts, Graduate Climate Conference, 1–3 Nov. 2024, oral</p>
-
+</div>
 
 # Air-Sea Interaction
 
@@ -58,7 +61,8 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 
 ### Publications (in prep)
 <div style="text-indent: -36px; padding-left: 36px;">
-<p><b>Cohen, J. T.</b>, Thompson, L., Seasonal roles of the ocean and the atmosphere in driving the surface heat flux feedback, <i>JGR: Oceans</i>, in prep</p> 
+<p><b>Cohen, J. T.</b>, Thompson, L., Seasonal roles of the ocean and the atmosphere in driving the surface heat flux feedback, <i>JGR: Oceans</i>, in prep</p>
+</div>
 
 ### Presentations
 
@@ -72,3 +76,4 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 <p><b>Cohen, J. T.</b>, Thompson, L., The Effective Depth of Air-Sea Interaction on Monthly and Seasonal Timescales, Graduate Climate Conference, 29–31 Oct. 2021, poster (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Drushka, K., Timescales of Atmosphere-Ocean Interaction in the Southern Ocean, Abstract A055-05, AGU Fall Meeting, 8 Dec. 2020, oral (remote)</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Drushka, K., Timescales of Atmosphere-Ocean Interaction in the Southern Ocean, presented at 2020 Graduate Climate Conference, 30 Oct.–1 Nov. 2020, poster (remote)</p>
+</div>
