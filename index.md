@@ -14,7 +14,7 @@ I am a Ph.D. student studying physical oceanography with [Dr. LuAnne Thompson](h
 
 Before coming to the University of Washington in September 2019, I earned a B.A. in Physics from Carleton College in June 2019.
 
-I am currently applying and looking for postdoc research opportunities focused on ocean heat variability and/or subseasonal to seasonal climate prediction!
+I am currently applying to postdoc research opportunities focused on ocean heat variability and/or subseasonal to seasonal climate prediction!
 
 ## News and Updates
 
