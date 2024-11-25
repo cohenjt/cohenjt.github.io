@@ -11,7 +11,7 @@ header:
 ### Object-Based Evaluation of Marine Heatwave Predictions
 I use [Ocetrac](https://ocetrac.readthedocs.io/en/latest/){:target="_blank"} and the Method for Object-based Diagnostic Evaluation (MODE) to detect and verify marine heatwave predictions in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE).
 
-My research was recently highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04#3036). We are about to submit a manuscript to Geophsyical Research Letters.
+My research was recently highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications). We are about to submit a manuscript to Geophsyical Research Letters.
 
 ### Biogeochemical Impacts of the 2019 Northeast Pacific Marine Heatwave
 I am contributing to a publication on the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf of Alaska that peaked in the summer of 2019. We evaluate temperature, dissolved inorganic carbon (DIC), and dissolved oxygen (DO) to understand the relationships between temperature and biogeochemistry at the ocean surface and at depth.

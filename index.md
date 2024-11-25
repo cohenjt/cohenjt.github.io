@@ -20,7 +20,7 @@ I am currently applying and looking for postdoc research opportunities focused o
 
 I updated this website for the first time in a while!
 
-__November 2024:__ My work on evaluating marine heatwave predictions was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04#3036)
+__November 2024:__ My work on evaluating marine heatwave predictions was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications)
 
 __October 2024:__ I attended the Physical Oceanography Dissertation Symposium ([PODS XIII](http://www.pods-symposium.org/PODS_symposium/index.htm)) in Lihue, HI.
 
