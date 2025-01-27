@@ -25,17 +25,18 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 
 ### Presentations
 
-<div style="text-indent: -36px; padding-left: 36px;">
-<p>AGU Fall Meeting, Dec. 2024 (poster)</p>
-<p>NOAA’s Subseasonal and Seasonal Applications Workshop, Sept. 2024</p>
-<p>Liège Colloquium on Ocean Dynamics, May 2024</p>
-<p>Earth System Predictability Across Timescales Workshop, Apr. 2024 (poster)</p>
-<p>CESM Earth System Prediction Working Group Meeting, Mar. 2024</p>
-<p>Ocean Sciences Meeting 2024, Feb. 2024</p>
-<p>Graduate Climate Conference, Nov. 2023</p>
-<p>ICTP-CLIVAR Summer School on Marine Heatwaves, Jul. 2023 (poster)</p>
-<p>UW Data Science Seminar, Apr. 2023</p>
-</div> -->
+<!-- <div style="text-indent: -36px; padding-left: 36px;"> -->
+<ul>
+<li>AGU Fall Meeting, Dec. 2024 (poster)</li>
+<li>NOAA’s Subseasonal and Seasonal Applications Workshop, Sept. 2024</li>
+<li>Liège Colloquium on Ocean Dynamics, May 2024</li>
+<li>Earth System Predictability Across Timescales Workshop, Apr. 2024 (poster)</li>
+<li>CESM Earth System Prediction Working Group Meeting, Mar. 2024</li>
+<li>Ocean Sciences Meeting 2024, Feb. 2024</li>
+<li>Graduate Climate Conference, Nov. 2023</li>
+<li>ICTP-CLIVAR Summer School on Marine Heatwaves, Jul. 2023 (poster)</li>
+<li>UW Data Science Seminar, Apr. 2023</li>
+</ul>
 
 <!-- <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Object-Based Evaluation of Marine Heatwave Predictions, AGU Fall Meeting, 9-13 Dec. 2024, poster, upcoming</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E. Object-Based Evaluation of Marine Heatwave Forecasts, NOAA’s Subseasonal and Seasonal Applications Workshop, 5 Sept. 2024, oral (remote)</p>
@@ -54,16 +55,17 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 I am evaluating predictions of September Arctic sea ice extent, volume, and concentration in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE). 
 
 ### Presentations
-<div style="text-indent: -36px; padding-left: 36px;">
-<p>Graduate Climate Conference, Nov. 2024</p>
+<!-- <div style="text-indent: -36px; padding-left: 36px;"> -->
+<ul>
+<li>Graduate Climate Conference, Nov. 2024</li>
 <!-- <p><b>Cohen, J. T.</b>, Yeager, S., Thompson, L., Cheng, W., Sources of Predictability in Skillful Arctic Sea Ice Forecasts, Graduate Climate Conference, 1–3 Nov. 2024, oral</p> -->
-</div>
+</ul>
 
 # Earth System Predictability Across Timescales
 ### Publications
 <div style="text-indent: -36px; padding-left: 36px;">
 <p>Richter, J. H., Arcodia, M. C., Berner, J., Demuth, J. L., Falloon, P., <b>Cohen, J. T.</b>, González-Cruz, J., El Gharamti, M., Hoppe, B., Kumar, S., Mariotti, A., Mishra, D., Pegion, K., Pu, Z., Quagraine, K. A., Quagraine, K. T., Roychoudhury, C., Ryan, J., Stone, Z., Das, D., Gaubert, B., Zarzycki, C., Earth System Predictability Across Time Scales for a Resilient Society: A Research Community Perspective, Bull. Am. Meteorol. Soc., in prep</p>
-
+</div>
 
 # Air-Sea Interaction
 
@@ -83,17 +85,18 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 
 ### Presentations
 
-<div style="text-indent: -36px; padding-left: 36px;">
-<p>2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, Mar. 2023 (poster)</p>
-<p>AGU Fall Meeting, 12 Dec. 2022, oral</p>
-<p>Graduate Climate Conference, Oct. 2022 (poster)</p>
-<p>US CLIVAR Whither the Gulf Stream Workshop, June 2022 (poster/lightning talk)</p>
-<p>Ocean Sciences Meeting, Mar. 2022</p>
-<p>Graduate Climate Conference, Oct. 2021 (poster)</p>
-<p>AGU Fall Meeting, Dec. 2020</p>
-<p>Graduate Climate Conference, Oct. 2020 (poster)
+<!-- <div style="text-indent: -36px; padding-left: 36px;"> -->
+<ul>
+<li>2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, Mar. 2023 (poster)</li>
+<li>AGU Fall Meeting, 12 Dec. 2022, oral</li>
+<li>Graduate Climate Conference, Oct. 2022 (poster)</li>
+<li>US CLIVAR Whither the Gulf Stream Workshop, June 2022 (poster/lightning talk)</li>
+<li>Ocean Sciences Meeting, Mar. 2022</li>
+<li>Graduate Climate Conference, Oct. 2021 (poster)</li>
+<li>AGU Fall Meeting, Dec. 2020</li>
+<li>Graduate Climate Conference, Oct. 2020 (poster)</li>
 
-</div> -->
+</ul> -->
 <!-- <p><b>Cohen, J. T.</b>, Thompson, L., The seasonal cycle of the ocean's role in driving air-sea interaction, 2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, 6–8 Mar. 2023, poster</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Seasonal variation in the relative roles of oceanic and atmospheric processes in driving air-sea interaction, Abstract OS13B-08, AGU Fall Meeting, 12 Dec. 2022, oral</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Quantifying the relative roles of atmospheric and oceanic processes in driving air-sea interaction in the Gulf Stream Region, Graduate Climate Conference 2022, poster</p>
