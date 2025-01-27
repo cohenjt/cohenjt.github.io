@@ -32,7 +32,7 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 <li>Liège Colloquium on Ocean Dynamics, May 2024</li>
 <li>Earth System Predictability Across Timescales Workshop, Apr. 2024 (poster)</li>
 <li>CESM Earth System Prediction Working Group Meeting, Mar. 2024</li>
-<li>Ocean Sciences Meeting 2024, Feb. 2024</li>
+<li>Ocean Sciences Meeting, Feb. 2024</li>
 <li>Graduate Climate Conference, Nov. 2023</li>
 <li>ICTP-CLIVAR Summer School on Marine Heatwaves, Jul. 2023 (poster)</li>
 <li>UW Data Science Seminar, Apr. 2023</li>
@@ -96,7 +96,7 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 <li>AGU Fall Meeting, Dec. 2020</li>
 <li>Graduate Climate Conference, Oct. 2020 (poster)</li>
 
-</ul> -->
+</ul>
 <!-- <p><b>Cohen, J. T.</b>, Thompson, L., The seasonal cycle of the ocean's role in driving air-sea interaction, 2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, 6–8 Mar. 2023, poster</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Seasonal variation in the relative roles of oceanic and atmospheric processes in driving air-sea interaction, Abstract OS13B-08, AGU Fall Meeting, 12 Dec. 2022, oral</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Quantifying the relative roles of atmospheric and oceanic processes in driving air-sea interaction in the Gulf Stream Region, Graduate Climate Conference 2022, poster</p>
