@@ -27,15 +27,15 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 
 <!-- <div style="text-indent: -36px; padding-left: 36px;"> -->
 <ul>
-<li>AGU Fall Meeting, Dec. 2024 (poster)</li>
-<li>NOAA’s Subseasonal and Seasonal Applications Workshop, Sept. 2024</li>
+<li>AGU Fall Meeting, Dec. 2024 (<a href="https://agu24.ipostersessions.com/?s=C0-6B-05-5B-85-D1-AA-2D-4B-42-EC-60-23-6C-1C-96">poster</a>)</li>
+<li>NOAA’s Subseasonal and Seasonal Applications Workshop, Sept. 2024 (<a href="https://vlab.noaa.gov/documents/17693964/39361920/Day2_session5_Cohen.pdf">PDF</a>)</li>
 <li>Liège Colloquium on Ocean Dynamics, May 2024</li>
 <li>Earth System Predictability Across Timescales Workshop, Apr. 2024 (poster)</li>
 <li>CESM Earth System Prediction Working Group Meeting, Mar. 2024</li>
 <li>Ocean Sciences Meeting, Feb. 2024</li>
 <li>Graduate Climate Conference, Nov. 2023</li>
 <li>ICTP-CLIVAR Summer School on Marine Heatwaves, Jul. 2023 (poster)</li>
-<li>UW Data Science Seminar, Apr. 2023</li>
+<li>UW Data Science Seminar, Apr. 2023 [<a href="https://www.youtube.com/watch?v=wDpFAugIQgg">video</a>]</li>
 </ul>
 
 <!-- <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Object-Based Evaluation of Marine Heatwave Predictions, AGU Fall Meeting, 9-13 Dec. 2024, poster, upcoming</p>
@@ -87,7 +87,7 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 
 <!-- <div style="text-indent: -36px; padding-left: 36px;"> -->
 <ul>
-<li>2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, Mar. 2023 (poster)</li>
+<li>2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, Mar. 2023 (<a href="https://usclivar.org/sites/default/files/2023/posters/COHEN-JACOB-MESO-POSTER-CP.pdf">poster</a>)</li>
 <li>AGU Fall Meeting, 12 Dec. 2022, oral</li>
 <li>Graduate Climate Conference, Oct. 2022 (poster)</li>
 <li>US CLIVAR Whither the Gulf Stream Workshop, June 2022 (poster/lightning talk)</li>
