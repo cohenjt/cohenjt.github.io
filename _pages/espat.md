@@ -14,7 +14,7 @@ I contributed to an article on the future of Earth system predictability researc
 
 ## Predictability Research
 
-### Marine Heatwave
+### Marine Heatwaves
 Learn more about my research on marine heatwave prediction [here](https://cohenjt.github.io/research/mhw/).
 
 ### Arctic Sea Ice
