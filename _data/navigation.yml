@@ -1,9 +1,11 @@
 main:
   - title: "Research"
     url: /research/
+    - title: "Marine Heatwaves"
+      url: /research/mhw/
   - title: "Engagement"
     url: /engagement/
-  # - title: "About me"
-  #   url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /files/cv_cohen.pdf

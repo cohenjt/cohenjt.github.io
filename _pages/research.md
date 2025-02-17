@@ -64,7 +64,7 @@ I am evaluating predictions of September Arctic sea ice extent, volume, and conc
 # Earth System Predictability Across Timescales
 ### Publications
 <div style="text-indent: -36px; padding-left: 36px;">
-<p>Richter, J. H., Arcodia, M. C., Berner, J., Demuth, J. L., Falloon, P., <b>Cohen, J. T.</b>, González-Cruz, J., El Gharamti, M., Hoppe, B., Kumar, S., Mariotti, A., Mishra, D., Pegion, K., Pu, Z., Quagraine, K. A., Quagraine, K. T., Roychoudhury, C., Ryan, J., Stone, Z., Das, D., Gaubert, B., Zarzycki, C., Earth System Predictability Across Time Scales for a Resilient Society: A Research Community Perspective, Bull. Am. Meteorol. Soc., in prep</p>
+<p>Richter, J. H., Joseph, E., Arcodia, M. C., Berner, J., Demuth, J. L., Falloon, P., Romine, G., <b>Cohen, J. T.</b>, González-Cruz, J., El Gharamti, M., Hoppe, B., Kumar, S., Mariotti, A., Mishra, D., Pegion, K., Pu, Z., Quagraine, K. A., Quagraine, K. T., Roychoudhury, C., Ryan, J., Stone, Z., Das, D., Gaubert, B., Kapnick, S., Zarzycki, C., Earth System Predictability Across Time Scales for a Resilient Society: A Research Community Perspective, <i>submitted to Bull. Am. Meteorol. Soc.</i></p>
 </div>
 
 # Air-Sea Interaction
