@@ -11,10 +11,12 @@ I use [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_blank"} and the Me
 My research was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications), and we recently submitted a manuscript to Geophsyical Research Letters.
 
 ## Biogeochemical Impacts of the 2019 Northeast Pacific Marine Heatwave
-We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf of Alaska that peaked in the summer of 2019. We evaluate temperature, dissolved inorganic carbon (DIC), and dissolved oxygen (DO) to understand the relationships between extreme temperatures and biogeochemistry at the ocean surface and at depth.
+We study the surface and subsurface impacts of the Blob 2.0, a marine heatwave in the Gulf of Alaska that peaked in the summer of 2019. We evaluate temperature, dissolved inorganic carbon (DIC), and dissolved oxygen (DO) to understand the relationships between extreme temperatures and biogeochemistry at the ocean surface and at depth.
+
+## Software
+I am a maintainer of [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_blank"}, which uses image processing in python to detect and track spatially connected objects in gridded data. I also contributed to the development of [heatwave](https://robwschlegel.github.io/heatwave3/index.html){:target="_blank"}, an R package that detects marine heatwaves from time series in NetCDF files. Please reach out if you are interested in using or contributing to these software packages!
 
 ## Publications
-
 <div style="text-indent: -36px; padding-left: 36px;">
 <p><b>Cohen, J. T.</b>, Thompson, L., Maroon, E., Deppenmeier, A., Cai, C., Object-based evaluation of marine heatwave predictions, <i>submitted to GRL</i> [<a href="https://essopenarchive.org/users/885081/articles/1264421-object-based-evaluation-of-marine-heatwave-predictions">preprint</a>]</p>
 <p>Kohlman, K., Mogen, S., <b>Cohen, J. T.</b>, Araujo, J., Bonino, G., Beaudin, E., Lovenduski, N. S., Surface and subsurface biogeochemical impacts of the 2019 northeast Pacific marine heatwave, <i>submitted to GRL</i></p>
@@ -22,7 +24,6 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 </div>
 
 ## Presentations
-
 <ul>
 <li>AGU Fall Meeting, Dec. 2024 (<a href="https://agu24.ipostersessions.com/?s=C0-6B-05-5B-85-D1-AA-2D-4B-42-EC-60-23-6C-1C-96">poster</a>)</li>
 <li>NOAA’s Subseasonal and Seasonal Applications Workshop, Sept. 2024 (<a href="https://vlab.noaa.gov/documents/17693964/39361920/Day2_session5_Cohen.pdf">PDF</a>)</li>
