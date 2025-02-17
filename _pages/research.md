@@ -8,7 +8,9 @@ header:
 
 # Marine Heatwaves
 
-### Object-Based Evaluation of Marine Heatwave Predictions
+I research the spatiotemporal evolution, predictability, and impacts of marine heatwaves. [See more...](https://cohenjt.github.io/research/mhw/)
+
+<!-- ### Object-Based Evaluation of Marine Heatwave Predictions
 I use [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_blank"} and the Method for Object-based Diagnostic Evaluation (MODE) to detect and verify marine heatwave predictions in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE).
 
 My research was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications), and we recently submitted a manuscript to Geophsyical Research Letters.
@@ -36,7 +38,7 @@ We study the surface and subsurface impacts of the Blob 2.0, a MHW in the Gulf o
 <li>Graduate Climate Conference, Nov. 2023</li>
 <li>ICTP-CLIVAR Summer School on Marine Heatwaves, Jul. 2023 (poster)</li>
 <li>UW Data Science Seminar, Apr. 2023 [<a href="https://www.youtube.com/watch?v=wDpFAugIQgg">video</a>]</li>
-</ul>
+</ul> -->
 
 <!-- <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E., Object-Based Evaluation of Marine Heatwave Predictions, AGU Fall Meeting, 9-13 Dec. 2024, poster, upcoming</p>
 <p><b>Cohen, J. T.</b>, Thompson, L., Cai, C., Deppenmeier, A., Maroon, E. Object-Based Evaluation of Marine Heatwave Forecasts, NOAA’s Subseasonal and Seasonal Applications Workshop, 5 Sept. 2024, oral (remote)</p>

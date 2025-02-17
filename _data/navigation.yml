@@ -1,8 +1,6 @@
 main:
   - title: "Research"
     url: /research/
-    - title: "Marine Heatwaves"
-      url: /research/mhw/
   - title: "Engagement"
     url: /engagement/
   - title: "Publications"
