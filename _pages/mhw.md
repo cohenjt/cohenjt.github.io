@@ -5,8 +5,6 @@ header:
     overlay_image: "/assets/images/seaheader.jpeg"
 ---
 
-# Marine Heatwaves
-
 ## Object-Based Evaluation of Marine Heatwave Predictions
 I use [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_blank"} and the Method for Object-based Diagnostic Evaluation (MODE) to detect and verify marine heatwave predictions in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE).
 
