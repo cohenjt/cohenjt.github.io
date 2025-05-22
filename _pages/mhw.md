@@ -18,7 +18,7 @@ I am a maintainer of [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_bla
 
 ## Publications
 <div style="text-indent: -36px; padding-left: 36px;">
-<li><b>Cohen, J. T.</b>, Thompson, L., Maroon, E., Deppenmeier, A.-L., Cai, C. (2025). Object-based evaluation of seasonal-to-multiyear marine heatwave predictions, <i>GRL</i>, <i>accepted for publication</i> [<a href="https://essopenarchive.org/users/885081/articles/1264421-object-based-evaluation-of-marine-heatwave-predictions">preprint</a>][<a href="https://cohenjt.github.io/files/2025GL115021_accepted.pdf">accepted PDF</a>]</li> 
+<b>Cohen, J. T.</b>, Thompson, L., Maroon, E., Deppenmeier, A.-L., Cai, C. (2025). Object-based evaluation of seasonal-to-multiyear marine heatwave predictions, <i>GRL</i>, <i>accepted for publication</i> [<a href="https://essopenarchive.org/users/885081/articles/1264421-object-based-evaluation-of-marine-heatwave-predictions">preprint</a>][<a href="https://cohenjt.github.io/files/2025GL115021_accepted.pdf">accepted PDF</a>] 
 <p>Kohlman, K., Mogen, S., <b>Cohen, J. T.</b>, Araujo, J., Bonino, G., Beaudin, E., Lovenduski, N. S., Surface and subsurface biogeochemical impacts of the 2019 northeast Pacific marine heatwave, <i>submitted to GRL</i></p>
 <p>Cai, C., Thompson, L., Deppenmeier A.-L., <b>Cohen, J. T.</b>, Maroon, E., Staneva, V., Whitt, D., Atmospheric drivers of marine heatwaves in the North Pacific Ocean, in prep</p>
 </div>
