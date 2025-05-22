@@ -22,11 +22,11 @@ I will soon submit a manuscript with Prof. Thompson on this research.
 ## Presentations
 <ul>
 <li>2023 US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop, Mar. 2023 (<a href="https://usclivar.org/sites/default/files/2023/posters/COHEN-JACOB-MESO-POSTER-CP.pdf">poster</a>)</li>
-<li>AGU Fall Meeting, 12 Dec. 2022, oral</li>
+<li>AGU Fall Meeting, 12 Dec. 2022 (oral)</li>
 <li>Graduate Climate Conference, Oct. 2022 (poster)</li>
 <li>US CLIVAR Whither the Gulf Stream Workshop, June 2022 (poster/lightning talk)</li>
-<li>Ocean Sciences Meeting, Mar. 2022</li>
+<li>Ocean Sciences Meeting, Mar. 2022 (oral)</li>
 <li>Graduate Climate Conference, Oct. 2021 (poster)</li>
-<li>AGU Fall Meeting, Dec. 2020</li>
+<li>AGU Fall Meeting, Dec. 2020 (oral)</li>
 <li>Graduate Climate Conference, Oct. 2020 (poster)</li>
 </ul>

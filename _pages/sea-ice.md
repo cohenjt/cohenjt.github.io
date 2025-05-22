@@ -10,5 +10,6 @@ I am evaluating predictions of September Arctic sea ice extent, volume, and conc
 
 ## Presentations
 <ul>
+<li>Consortium for the Advancement of Arctic Marine Science (CAMAS) Workshop and Early Career School and Workshop, Apr. 2025</li>
 <li>Graduate Climate Conference, Nov. 2024</li>
 </ul>
