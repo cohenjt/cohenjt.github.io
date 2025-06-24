@@ -21,5 +21,5 @@ header:
 
 # Peer-Reviewed Publications
 <ol reversed>
-<li><b>Cohen, J. T.</b>, Thompson, L., Maroon, E., Deppenmeier, A.-L., Cai, C. (2025). Object-based evaluation of seasonal-to-multiyear marine heatwave predictions. <i>Geophysical Research Letters</i>, <i>52</i>, e2025GL115021. <a href=https://doi.org/10.1029/2025GL115021></a></li>
+<li><b>Cohen, J. T.</b>, Thompson, L., Maroon, E., Deppenmeier, A.-L., Cai, C. (2025). Object-based evaluation of seasonal-to-multiyear marine heatwave predictions. <i>Geophysical Research Letters</i>, <i>52</i>, e2025GL115021. <a href="https://doi.org/10.1029/2025GL115021"></a></li>
 </ol> 
