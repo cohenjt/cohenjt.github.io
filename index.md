@@ -8,15 +8,15 @@ header:
     image: "/assets/images/seaheader.jpeg"
 ---
 
-## I study air-sea interaction, upper ocean heat content variability, marine heatwaves, and climate predictability.
+## I study the ocean's role in climate variability and predictability.
 
-I am a Ph.D. student studying physical oceanography with [Dr. LuAnne Thompson](https://www.ocean.washington.edu/home/LuAnne+Thompson){:target="_blank"}. My research focuses on air-sea interaction, climate variability, and climate predictability. I use satellite observations to study air-sea heat exchange on monthly and seasonal timescales in order to understand the relative roles of oceanic and atmospheric processes in renewing upper ocean heat content. I use hindcast models like the Seasonal-to-Multiyear Large Ensemble (SMYLE) to study and understand predictions of marine heatwaves and Arctic sea ice. I also am interested in climate justice, community engagement, and climate data science.
+I am a postdoc at the Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington and NOAA PMEL. I work with Dr. Zachary Erickson, Dr. Emily Lemagie, Dr. Al Hermann, and Dr. Wei Cheng to study the life cycle and biogeochemical impacts of eddies in the Gulf of Alaska.
 
-Before coming to the University of Washington in September 2019, I earned a B.A. in Physics from Carleton College in June 2019.
+I completed my Ph.D. in oceanography at the University of Washington with Prof. LuAnne Thompson. My Ph.D. research focused on air-sea interaction, climate variability, and climate predictability. I used satellite and in situ observations to understand the role of ocean processes in driving ocean heat variability and used climate models to study and understand predictions of marine heatwaves and Arctic sea ice. I also am interested in climate justice, community engagement, and climate data science.
 
-I am currently applying to postdoc research opportunities focused on ocean heat variability and/or subseasonal to seasonal climate prediction!
+Before coming to the University of Washington, I earned my B.A. in Physics from Carleton College.
 
-## News and Updates
+<!-- ## News and Updates
 
 I updated this website for the first time in a while!
 
@@ -26,7 +26,7 @@ __October 2024:__ I attended the Physical Oceanography Dissertation Symposium ([
 
 __Summer 2024:__ I attended the Liège Colloquium on Ocean Dynamics and NOAA’s Subseasonal and Seasonal Applications Workshop (remotely). I also received the CICOES Graduate Student Fellowship to fund my research on Arctic sea ice predictions in Spring 2025.
 
-__Summer 2023:__ I attended the ICTP-CLIVAR Summer School on Marine Heatwaves in Trieste, Italy.
+__Summer 2023:__ I attended the ICTP-CLIVAR Summer School on Marine Heatwaves in Trieste, Italy. -->
 
 <!-- __January 2023:__ I successfully presented my Master's defense on January 19th! -->
 

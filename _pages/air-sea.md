@@ -6,18 +6,16 @@ header:
 ---
 
 ## The relative roles of oceanic and atmospheric processes in driving air-sea interaction
-<div class="row" style="margin-bottom: 1em">
+<!-- <div class="row" style="margin-bottom: 1em">
     <img src="/assets/images/research1.png" alt="Effective depth of air-sea interaction" style="width: 80%; height: auto; border: 2px solid black; display: block; margin-left: auto; margin-right: auto;">
-</div>
+</div> -->
 
-My master's work studies air-sea interaction on monthly timescales using satellite data from 1993-2019. With Dr. LuAnne Thompson, I examine the lagged-correlation relationships between sea surface temperature (SST), mixed-layer heat content (HC) and surface turbulent heat flux (Q) to study upper ocean heat content variability and air-sea interaction. I define SST-Q and HC-Q feedbacks, which estimates the strength of atmospheric feedback to SST anomalies and to upper ocean heat content. I then define an effective depth of air-sea interaction (H), which describes the depth of the ocean that participates in the exchange of heat with the atmosphere. I also examine the ratio of the effective depth to the maximum mixed-layer depth (R) to estimate the renewal rate of the mixed-layer heat content from interior ocean processes relative to that from atmospherically driven surface fluxes. We find large values of H and R in regions with strong ocean currents such as the Gulf Stream, the Kuroshio Current, and the Antarctic Circumpolar Current, while interior subtropical regions exhibit small values. This analysis will improve our understanding of the relationship between upper ocean transport processes and surface heat flux variability and enhance our predictive understanding of climate variability.
+My master's work studies air-sea interaction on monthly timescales using satellite data from 1993-2019. With Prof. LuAnne Thompson, I examine the lagged-correlation relationships between sea surface temperature (SST), mixed-layer heat content (HC) and surface turbulent heat flux (Q) to study upper ocean heat content variability and air-sea interaction. I define SST-Q and HC-Q feedbacks, which estimates the strength of atmospheric feedback to SST anomalies and to upper ocean heat content. I then define an effective depth of air-sea interaction, which describes the depth of the ocean that participates in the exchange of heat with the atmosphere. I also examine the feedback sensitivity to estimate the renewal rate of the mixed-layer heat content from interior ocean processes relative to that from atmospherically driven surface fluxes. This analysis improves our understanding of the relationship between upper ocean transport processes and surface heat flux variability and enhance our predictive understanding of climate variability.
 
-I will soon submit a manuscript with Prof. Thompson on this research.
-
-## Publications
+<!-- ## Publications
 <div style="text-indent: -36px; padding-left: 36px;">
-<p><b>Cohen, J. T.</b>, Thompson, L., Seasonal roles of the ocean and the atmosphere in driving the surface heat flux feedback, <i>JGR: Oceans</i>, in prep</p>
-</div>
+<p><b>Cohen, J. T.</b>, Thompson, L., The role of ocean processes in driving the surface heat flux feedback. <i>Journal of Geophysical Research: Oceans</i>, submitted</p>
+</div> -->
 
 ## Presentations
 <ul>
