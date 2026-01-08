@@ -10,7 +10,7 @@ I am a member of SCOR Working Group #175: SubMHW-WG, which fosters international
 ## Object-Based Evaluation of Marine Heatwave Predictions
 I use [Ocetrac](https://github.com/ocetrac/ocetrac){:target="_blank"} and the Method for Object-based Diagnostic Evaluation (MODE) to detect and verify marine heatwave predictions in the CESM2 Seasonal-to-Multiyear Large Ensemble (SMYLE).
 
-My research was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications){:target="_blank"}, and the manuscript was recently published in [Geophsyical Research Letters](https://doi.org/10.1029/2025GL115021){:target="_blank"}.
+My research was highlighted in the Development Testbed Center's [Autumn 2024 Newsletter](https://dtcenter.org/news/2024/04/expansion-mode-applications){:target="_blank"}, and the manuscript was recently published in [Geophysical Research Letters](https://doi.org/10.1029/2025GL115021){:target="_blank"}.
 
 ## Biogeochemical Impacts of the 2019 Northeast Pacific Marine Heatwave
 We study the surface and subsurface impacts of the Blob 2.0, a marine heatwave in the Gulf of Alaska that peaked in the summer of 2019. We evaluate temperature, dissolved inorganic carbon (DIC), and dissolved oxygen (DO) to understand the relationships between extreme temperatures and biogeochemistry at the ocean surface and at depth. Read about our work in [Geophysical Research Letters](https://doi.org/10.1029/2025GL115230){:target="_blank"}.
