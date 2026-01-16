@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', setupAccordion);
 <div class="accordion-content">
   <div class="content-row">
     <div class="content-image">
-      <img src="/assets/images/acorn.jpg" alt="Ultimate Frisbee">
+      <img src="/assets/images/acorn.gif" alt="Ultimate Frisbee">
     </div>
     <div class="content-text">
       I coach the middle school ultimate frisbee team at the Seattle Waldorf school. I work with students to develop their athletic skills and teamwork, emphasizing sportsmanship and 
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', setupAccordion);
       During a break between my Ph.D. and my postdoc, I occasionally worked as a substitute teacher at the Bush School in Seattle, WA. I primarily tought middle school and high school math, and filled in for a few other classes as needed.
     </div>
     <div class="content-image">
-      <img src="/assets/images/acorn.jpg" alt="Teaching">
+      <img src="/assets/images/acorn.gif" alt="Teaching">
     </div>
   </div>
 </div>
