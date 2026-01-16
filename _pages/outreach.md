@@ -54,7 +54,7 @@ header:
 <div class="row top-buffer">
   <div class="column" style="background-color: site.page-col; width: 60%;">
     <h1>ACORN</h1>
-    <p>The <a href="https://pcc.uw.edu/research/acorn-program/" target="_blank">Actionable Community-Oriented Research eNgagement</a> (ACORN) program at the University of Washington serves to connect graduate students and community organizations to address community-driven climate and energy priorities. As a member of the ACORN leadership board from 2021-2022, I reached out to community organizations and provide resources to ACORN volunteers and project liasons. I served as the ACORN liaison for the <a href="https://www.cleanenergytransition.org" target="_blank">Clean Energy Transition Institute</a> which hosted projects for six graduate students.
+    <p>The <a href="https://pcc.uw.edu/research/acorn-program/" target="_blank">Actionable Community-Oriented Research eNgagement</a> (ACORN) program at the University of Washington serves to connect graduate students and community organizations to address community-driven climate and energy priorities. As a member of the ACORN leadership board from 2021-2022, I reached out to community organizations and provide resources to ACORN volunteers and project liasons. I served as the ACORN liaison for the <a href="https://www.cleanenergytransition.org" target="_blank">Clean Energy Transition Institute</a> which hosted projects for six graduate students.</p>
   </div>
   <div class="column top-buffer" style="background-color: site.page-col; width: 40%;">
     <img src="/assets/images/acorn.gif" alt="ACORN">

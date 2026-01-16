@@ -40,6 +40,29 @@ header:
 .accordion-content.active {
   display: block;
 }
+
+.content-row {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.content-image {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.content-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 2px solid #ddd;
+}
+
+.content-text {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
 </style>
 
 <script>
@@ -72,10 +95,24 @@ document.addEventListener('DOMContentLoaded', setupAccordion);
 
 <div class="accordion-header">Middle School Ultimate Frisbee Coach</div>
 <div class="accordion-content">
-I coach the middle school ultimate frisbee team at the Seattle Waldorf school. I work with students to develop their athletic skills and teamwork, emphasizing sportsmanship and 
+  <div class="content-row">
+    <div class="content-image">
+      <img src="/assets/images/acorn.jpg" alt="Ultimate Frisbee">
+    </div>
+    <div class="content-text">
+      I coach the middle school ultimate frisbee team at the Seattle Waldorf school. I work with students to develop their athletic skills and teamwork, emphasizing sportsmanship and 
+    </div>
+  </div>
 </div>
 
 <div class="accordion-header">Substitute Teacher</div>
 <div class="accordion-content">
-During a break between my Ph.D. and my postdoc, I occasionally worked as a substitute teacher at the Bush School in Seattle, WA. I primarily tought middle school and high school math, and filled in for a few other classes as needed.
+  <div class="content-row">
+    <div class="content-text">
+      During a break between my Ph.D. and my postdoc, I occasionally worked as a substitute teacher at the Bush School in Seattle, WA. I primarily tought middle school and high school math, and filled in for a few other classes as needed.
+    </div>
+    <div class="content-image">
+      <img src="/assets/images/acorn.jpg" alt="Teaching">
+    </div>
+  </div>
 </div>
