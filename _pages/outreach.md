@@ -54,7 +54,7 @@ header:
 <div class="row top-buffer">
   <div class="column" style="background-color: site.page-col; width: 60%;">
     <h1>ACORN</h1>
-    <p>The <a href="https://pcc.uw.edu/research/acorn-program/" target="_blank">Actionable Community-Oriented Research eNgagement</a> (ACORN) program at the University of Washington serves to connect graduate students and community organizations to address community-driven climate and energy priorities. As a member of the ACORN leadership board from 2021-2022, I reached out to community organizations and provide resources to ACORN volunteers and project liasons. I currently serve as the ACORN liaison for a project with the <a href="https://www.cleanenergytransition.org" target="_blank">Clean Energy Transition Institute</a>, where three graduate students are working on the <a href="https://www.nwceatlas.org" target="_blank">Northwest Clean Energy Atlas</a>.</p>
+    <p>The <a href="https://pcc.uw.edu/research/acorn-program/" target="_blank">Actionable Community-Oriented Research eNgagement</a> (ACORN) program at the University of Washington serves to connect graduate students and community organizations to address community-driven climate and energy priorities. As a member of the ACORN leadership board from 2021-2022, I reached out to community organizations and provide resources to ACORN volunteers and project liasons. I served as the ACORN liaison for the <a href="https://www.cleanenergytransition.org" target="_blank">Clean Energy Transition Institute</a> which hosted projects for six graduate students.
   </div>
   <div class="column top-buffer" style="background-color: site.page-col; width: 40%;">
     <img src="/assets/images/acorn.gif" alt="ACORN">
@@ -71,7 +71,7 @@ header:
   </div>
   <div class="column" style="background-color: site.page-col; width: 60%">
     <h1>Graduate Climate Conference</h1>
-    <p>For the past three years, I have served on the organizing committee for the <a href="https://graduateclimateconference.github.io" target="_blank">Graduate Climate Conference</a> (GCC), which brings together graduate students from around the world to share their climate research and to connect graduate students studying climate science. In 2020, I led the Recording & Evaluation committee for the <a href="https://pcc.uw.edu/blog/2020/11/06/gcc-2020/" target="_blank">first virtual GCC</a>. In 2021, I served as a conference co-chair and led the Abstracts committee. In 2022, I created the conference website linked above and led the Abstracts committee again.</p>
+    <p>I  served on the organizing committee for the <a href="https://graduateclimateconference.github.io" target="_blank">Graduate Climate Conference</a> (GCC), which brings together graduate students from around the world to share their climate research and to connect graduate students studying climate science. In 2020, I led the Recording & Evaluation committee for the <a href="https://pcc.uw.edu/blog/2020/11/06/gcc-2020/" target="_blank">first virtual GCC</a>. In 2021, I served as a conference co-chair and led the Abstracts committee. In 2022, I created the conference website linked above and led the Abstracts committee again.</p>
   </div>
 </div>
 <!-- </div> -->
