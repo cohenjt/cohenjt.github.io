@@ -1,0 +1,26 @@
+<!--Custom Navigation with Dropdown Support-->
+<nav class="greedy-nav">
+  <button class="greedy-nav__toggle hidden" type="button">
+    <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
+    <div class="navicon"></div>
+  </button>
+  <ul class="visible-links">
+    {%- for link in site.data.navigation.main -%}
+      <li class="masthead__menu-item">
+        {%- if link.children -%}
+          <div class="dropdown">
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            <div class="dropdown-menu">
+              {%- for child in link.children -%}
+                <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+              {%- endfor -%}
+            </div>
+          </div>
+        {%- else -%}
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+  <ul class="hidden-links hidden"></ul>
+</nav>

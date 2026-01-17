@@ -20,6 +20,73 @@ $link-color: #0092ca;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Custom Dropdown Navigation Styles
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  > a {
+    cursor: pointer;
+    padding-right: 12px;
+
+    &::after {
+      content: "▼";
+      font-size: 10px;
+      margin-left: 5px;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover::after {
+      transform: rotate(180deg);
+    }
+  }
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+  padding: 8px 0;
+
+  a {
+    display: block;
+    padding: 10px 16px;
+    color: $link-color;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: #f5f5f5;
+      color: darken($link-color, 10%);
+    }
+
+    &:first-child {
+      border-radius: 4px 4px 0 0;
+    }
+
+    &:last-child {
+      border-radius: 0 0 4px 4px;
+    }
+  }
+}
+
+.dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
     font-size: 12px; // originally 16px
