@@ -1,6 +1,15 @@
 main:
   - title: "Research"
     url: /research/
+    children:
+      - title: "Marine Heatwaves"
+        url: /research/mhw/
+      - title: "Sea Ice Prediction"
+        url: /research/sea-ice/
+      - title: "Earth System Predictability Across Timescales"
+        url: /research/espat/
+      - title: "Air-Sea Interaction"
+        url: /research/air-sea/
   - title: "Engagement"
     url: /engagement/
   - title: "Publications"
