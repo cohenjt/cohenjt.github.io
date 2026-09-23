@@ -10,9 +10,9 @@ header:
 
 ## I study the ocean's role in climate variability and predictability.
 
-I am a postdoc at the Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington and NOAA PMEL. I work with Dr. Zachary Erickson, Dr. Emily Lemagie, Dr. Al Hermann, and Dr. Wei Cheng to study the life cycle and biogeochemical impacts of eddies in the Gulf of Alaska.
+I am a postdoc at the Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington and NOAA PMEL. I work with Dr. Zachary Erickson, Dr. Emily Lemagie, Dr. Al Hermann, and Dr. Wei Cheng to study the life cycle and biogeochemical impacts of eddies in the Gulf of Alaska. I assess eddy characteristics and investigate the impacts of GOA eddies on marine primary productivity in both models and observations.
 
-I completed my Ph.D. in oceanography at the University of Washington with Prof. LuAnne Thompson. My Ph.D. research focused on air-sea interaction, climate variability, and climate predictability. I used satellite and in situ observations to understand the role of ocean processes in driving ocean heat variability and used climate models to study and understand predictions of marine heatwaves and Arctic sea ice. I also am interested in climate justice, community engagement, and climate data science.
+I completed my Ph.D. in oceanography at the University of Washington with Prof. LuAnne Thompson studying air-sea interaction, climate variability, and climate predictability. My research primarily focused on understanding predictions of marine heatwaves and Arctic sea ice. I also am interested in climate justice, community engagement, and climate data science.
 
 Before coming to the University of Washington, I earned my B.A. in Physics from Carleton College.
 
